@@ -12,8 +12,8 @@ export default function page() {
     width={300} />
     <div className='flex flex-col gap-4'>
       <div className='flex flex-col gap-2'>
-       <p><strong>Why it's special:</strong> Robby incorporates an interactive experience into his portfolio.</p>
-      <p className=""><strong>What it's about:</strong> If you associate portfolios with a dry list of facts, this portfolio might surprise you. Robby found a novel way of displaying what was otherwise dry information. He let out his portfolio site as a video game that the visitor can actually play. This incredibly fun interactive design portfolio will make you scroll.</p>
+       <p><strong>Why it`s special:</strong> Robby incorporates an interactive experience into his portfolio.</p>
+      <p className=""><strong>What it`s about:</strong> If you associate portfolios with a dry list of facts, this portfolio might surprise you. Robby found a novel way of displaying what was otherwise dry information. He let out his portfolio site as a video game that the visitor can actually play. This incredibly fun interactive design portfolio will make you scroll.</p>
       </div>
       </div>
       </div>
@@ -26,8 +26,8 @@ export default function page() {
   
 <div className='flex flex-col gap-4'>
       <div className='flex flex-col gap-2'>
-       <p><strong>Why it's special:</strong> Robby incorporates an interactive experience into his portfolio.</p>
-      <p className=""><strong>What it's about:</strong> If you associate portfolios with a dry list of facts, this portfolio might surprise you. Robby found a novel way of displaying what was otherwise dry information. He let out his portfolio site as a video game that the visitor can actually play. This incredibly fun interactive design portfolio will make you scroll.</p>
+       <p><strong>Why it`s special:</strong> Robby incorporates an interactive experience into his portfolio.</p>
+      <p className=""><strong>What it`s about:</strong> If you associate portfolios with a dry list of facts, this portfolio might surprise you. Robby found a novel way of displaying what was otherwise dry information. He let out his portfolio site as a video game that the visitor can actually play. This incredibly fun interactive design portfolio will make you scroll.</p>
       </div>
       </div>
   </div>
