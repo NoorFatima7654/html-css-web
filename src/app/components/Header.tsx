@@ -11,10 +11,10 @@ export default function Header() {
             <Image src="/images/logo.PNG" alt="LOGO" height={100} width={100} />
           </div>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-      <a className="mr-5 hover:text-gray-900" href='http://localhost:3000/'>HOME</a>
-      <a className="mr-5 hover:text-gray-900" href='http://localhost:3000/about'>ABOUT</a>
-      <a className="mr-5 hover:text-gray-900" href='http://localhost:3000/portfolio'>PORTFOLIO</a>
-      <a className="mr-5 hover:text-gray-900" href='http://localhost:3000/contact'>CONTACT</a>
+      <a className="mr-5 hover:text-gray-900" href='http://localhost:3001/'>HOME</a>
+      <a className="mr-5 hover:text-gray-900" href='http://localhost:3001/about'>ABOUT</a>
+      <a className="mr-5 hover:text-gray-900" href='http://localhost:3001/portfolio'>PORTFOLIO</a>
+      <a className="mr-5 hover:text-gray-900" href='http://localhost:3001/contact'>CONTACT</a>
     </nav>
     
   </div> 

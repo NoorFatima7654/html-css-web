@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-export default function page() {
+export default function About() {
   return (
     
       <section className="text-gray-600   body-font">
