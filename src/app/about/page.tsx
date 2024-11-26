@@ -23,7 +23,7 @@ export default function About() {
 
      
     <div className="  lg:max-w-lg mt-2 lg:w-full md:w-1/2 w-5/6">
-      <Image className="object-cover  rounded mt-2 " alt="hero" src="/images/proimage.PNG"
+      <Image className="object-cover  rounded mt-2 " alt="hero" src="/images/proimage.png"
       height={300}
       width={300}
       />
