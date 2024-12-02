@@ -11,7 +11,7 @@ export default function Home() {
 {/*hero section*/}
 <section>
   <Image
-  src={'/images/home.PNG'}
+  src={'/images/home.png'}
   alt='picture'
   width={750}
   height={2000}
@@ -43,7 +43,7 @@ export default function Home() {
 
      
     <div className="  lg:max-w-lg mt-2 lg:w-full md:w-1/2 w-5/6">
-      <Image className="object-cover  rounded mt-2 " alt="hero" src="/images/proimage.PNG"
+      <Image className="object-cover  rounded mt-2 " alt="hero" src="/images/proimage.png"
       height={300}
       width={300}
       />
@@ -76,7 +76,7 @@ export default function Home() {
       {/* First Section */}
       <div className="flex flex-col sm:flex-row items-start gap-4">
         <Image 
-          src="/images/portfolio.PNG" 
+          src="/images/portfolio.png" 
           alt="Image 1" 
           className="ml-10 sm:ml-0" 
           height={300} 
@@ -97,7 +97,7 @@ export default function Home() {
       {/* Second Section */}
       <div className="flex flex-col sm:flex-row items-start gap-4">
         <Image 
-          src="/images/portfolio.PNG" 
+          src="/images/portfolio.png" 
           alt="Image 2" 
           className="py-4 ml-10 sm:ml-0" 
           height={300} 
